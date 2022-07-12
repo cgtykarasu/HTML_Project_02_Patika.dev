@@ -4,5 +4,4 @@
 
 ---
 [Patika.dev Profil Link](https://app.patika.dev/cgtykarasu)
-
 ---
